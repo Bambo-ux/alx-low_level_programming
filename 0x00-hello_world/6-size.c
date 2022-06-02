@@ -2,14 +2,13 @@
 
 /**
  *  main - Enty point
- *  
+ *
  *  Return: Always 0 (Success)
  */
 
 int main(void)
 {
 	char acharacter;
-	A
 	int ainteger;
 	long along;
 	long long alonglong;
