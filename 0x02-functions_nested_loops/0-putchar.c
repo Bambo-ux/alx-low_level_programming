@@ -1,10 +1,8 @@
 #include "main.h"
-
 /**
- * main - prints purchar
+ * main -> print  _putchar in this function
  *
- * Return: Always returns 0
- *
+ * Return: always to 0
  */
 int main(void)
 {
