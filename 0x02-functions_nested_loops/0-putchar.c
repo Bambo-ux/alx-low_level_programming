@@ -17,7 +17,7 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('.');
-	__putchar('h');
+	_putchar('h');
 	_putchar('\n');
 	return (0);
 }
